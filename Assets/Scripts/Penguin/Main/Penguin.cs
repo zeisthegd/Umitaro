@@ -12,8 +12,6 @@ public class Penguin : MonoBehaviour
     Rigidbody rb2d;
     Animator animator;
 
-
-
     void Awake()
     {
         Cursor.lockState = CursorLockMode.Locked;
@@ -27,10 +25,7 @@ public class Penguin : MonoBehaviour
 
     void Update()
     {
-
         movementController.HandleInput();
-
-
 
     }
 
@@ -61,7 +56,6 @@ public class Penguin : MonoBehaviour
 
     }
 
-
     void SwitchMovementType(MovementState state)
     {
         switch (state)
@@ -72,5 +66,6 @@ public class Penguin : MonoBehaviour
             default:
                 break;
         }
+
     }
 }
