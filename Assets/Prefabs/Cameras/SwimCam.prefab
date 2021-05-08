@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1248680307948986223}
-  m_LocalRotation: {x: 0.5257311, y: -0, z: -0, w: 0.85065085}
+  m_LocalRotation: {x: 0.5091093, y: -0, z: -0, w: 0.8607019}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 20, z: -10}
+  m_FollowOffset: {x: 0, y: 9.003649, z: -4.9479504}
   m_XDamping: 0
   m_YDamping: 0
   m_ZDamping: 0
@@ -209,7 +209,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6923354705932299654}
-  m_LocalRotation: {x: 0.48562515, y: -0.000000045591374, z: 0.000000025327328, w: 0.8741672}
+  m_LocalRotation: {x: 0.46855396, y: -0.00000002156634, z: 0.0000000114383, w: 0.8834349}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -317,7 +317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 20, z: -10}
+  m_FollowOffset: {x: 0, y: 9.003649, z: -4.9479504}
   m_XDamping: 0
   m_YDamping: 0
   m_ZDamping: 0
@@ -409,7 +409,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7692774487509756527}
-  m_LocalRotation: {x: 0.5057713, y: 0.000000008003118, z: -0.0000000046921294, w: 0.8626676}
+  m_LocalRotation: {x: 0.4889198, y: -0.000000033562536, z: 0.000000018811013, w: 0.87232876}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -529,9 +529,9 @@ MonoBehaviour:
         m_Calls: []
   m_LegacyBlendHint: 0
   m_YAxis:
-    Value: 1.03
+    Value: 0.84
     m_SpeedMode: 0
-    m_MaxSpeed: 2
+    m_MaxSpeed: 1.5
     m_AccelTime: 0.2
     m_DecelTime: 0.1
     m_InputAxisName: Mouse Y
@@ -583,12 +583,12 @@ MonoBehaviour:
   m_BindingMode: 4
   m_SplineCurvature: 0
   m_Orbits:
-  - m_Height: 20
-    m_Radius: 10
+  - m_Height: 10
+    m_Radius: 2
   - m_Height: 3.5
-    m_Radius: 20
-  - m_Height: -20
     m_Radius: 10
+  - m_Height: -10
+    m_Radius: 2
   m_LegacyHeadingBias: 3.4028235e+38
   m_Rigs:
   - {fileID: 3560644636207233611}
@@ -652,7 +652,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 20, z: -10}
+  m_FollowOffset: {x: 0, y: 9.003649, z: -4.9479504}
   m_XDamping: 0
   m_YDamping: 0
   m_ZDamping: 0
